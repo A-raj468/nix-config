@@ -49,6 +49,7 @@
 
     typos-lsp
 
+    tree-sitter
     lazygit
   ];
 
